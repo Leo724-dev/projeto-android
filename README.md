@@ -14,7 +14,7 @@ A interface conta com um design limpo, componentes estilizados com cores harmoni
 
 ## 📸 Demonstração
 
-Você pode visualizar o projeto online através do link: 👉 [Adicione o link do seu GitHub Pages aqui]
+Você pode visualizar o projeto online através do link: 👉 https://leo724-dev.github.io/projeto-android/
 
 ## 🛠️ Tecnologias Utilizadas
 

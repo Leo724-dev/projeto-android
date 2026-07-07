@@ -1,39 +1,30 @@
-<h1>🎯 Sakamoto Days - Character Showcase</h1>
+# 🤖 Android Mascot History - Landing Page
 
-Este projeto é uma landing page interativa dedicada aos protagonistas da obra Sakamoto Days. A aplicação permite navegar entre as fichas técnicas dos personagens principais com um design moderno e fiel à estética do mangá.
+Este projeto é uma landing page interativa e informativa dedicada à história e evolução do famoso mascote do sistema operacional Android, o Bugdroid, além de listar as versões históricas do sistema nomeadas em homenagem a doces.
 
-<h2>📝 Sobre o Projeto</h2>
+## 📝 Sobre o Projeto
 
-O foco principal é a apresentação dinâmica de três personagens centrais:
+O foco principal é apresentar de forma agradável e dinâmica a trajetória do mascote do Android:
+- **A Primeira Versão:** Os robôs originais criados por Dan Morrill usando o Inkscape.
+- **Surge um Novo Mascote:** A reformulação profissional feita pela ilustradora Irina Blok, focada em traços simples, limpos e de rápida identificação (inspirados em pictogramas de banheiros).
+- **Evolução da Marca:** A transição para as versões modernas da identidade visual do Android.
+- **Versões "Adocicadas":** Uma seção especial listando as icônicas versões do sistema de 1.5 (Cupcake) até 9.0 (Pie).
 
-Taro Sakamoto: O ex-assassino lendário e dono da loja.
+A interface conta com um design limpo, componentes estilizados com cores harmoniosas (tons de verde) e seções informativas integradas.
 
-Shin Asakura: O ex-assassino com poderes de clarividência.
+## 📸 Demonstração
 
-Lu Shaotang: A herdeira de uma tríade chinesa e especialista em artes marciais.
+Você pode visualizar o projeto online através do link: 👉 [Adicione o link do seu GitHub Pages aqui]
 
-A interface utiliza um sistema de abas no menu superior, permitindo que o usuário alterne as informações e imagens sem recarregar a página.
+## 🛠️ Tecnologias Utilizadas
 
-<h2>📸 Demonstração</h2>
+- **HTML5:** Estruturação semântica do conteúdo.
+- **CSS3:** Estilização avançada, uso de layouts responsivos, componentes customizados (caixas de destaque) e paleta de cores temática.
+- **Mídias Integradas:** Incorporação de elementos visuais e reprodutores de vídeo.
 
-Você pode visualizar o projeto online através do link: 👉 https://leo724-dev.github.io/Sakamoto-Days/
+## ✨ Funcionalidades
 
-<h2>🛠️ Tecnologias Utilizadas</h2>
-
-HTML5: Estruturação semântica.
-
-CSS3: Estilização avançada, Flexbox para o layout e transições suaves.
-
-JavaScript: Lógica para alternância de conteúdo entre os personagens (Taro, Shin e Lu).
-
-Google Fonts: Tipografia personalizada.
-
-<h2>✨ Funcionalidades</h2>
-
-[x] Navegação Dinâmica: Menu funcional para alternar entre os três personagens.
-
-[x] Galeria de Expressões: Exibição de diferentes artes e ângulos de cada personagem.
-
-[x] Textos Biográficos: Descrições detalhadas da história de cada um.
-
-[x] Responsividade: Interface adaptada para dispositivos móveis e desktop.
+- [x] **Conteúdo Estruturado:** Seções bem divididas contando a cronologia do design do mascote.
+- [x] **Seção Especial de Aprendizado:** Bloco destacado contendo a lista cronológica e alfabética das versões temáticas do Android.
+- [x] **Design Temático:** Identidade visual inspirada nas cores clássicas do ecossistema Android.
+- [x] **Responsividade:** Interface adaptada para uma leitura confortável em diferentes tamanhos de tela.
